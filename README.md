@@ -9,15 +9,15 @@ Deployed live at: [https://weather-app-x52k.vercel.app]
 
 ### 🔍 City Search & Live Weather
 
-![Screenshot1](screenshot1.png)
+!(screenshot1.png)
 
 ### 📍 Location-based Suggestions
 
-![Screenshot2](screenshot2.png)
+!(screenshot2.png)
 
 ### 📍 Live Weather Forecast
 
-![Screenshot2](screenshot3.png)
+!(screenshot3.png)
 
 ---
 
